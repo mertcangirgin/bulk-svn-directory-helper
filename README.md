@@ -1,4 +1,4 @@
-# create_svn_url
+# svn-directory-creator
 
 Small command-line helper for creating one or more SVN directory URLs safely and consistently.
 
