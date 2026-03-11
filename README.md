@@ -1,4 +1,4 @@
-# svn-directory-creator
+# bulk-svn-directory-helper
 
 Small command-line helper for creating one or more SVN directory URLs safely and consistently.
 
